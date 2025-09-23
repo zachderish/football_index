@@ -1,4 +1,4 @@
-# CFB Index #
+# Football Index #
 
 College football statistics API and web app.
 
